@@ -26,7 +26,7 @@ export default function Home({ searchParams }: SearchParamProps) {
             className="mb-10 h-10 w-fit"
           />
           <PatientForm />
-          <div className="text-14-regular mt-20 flex justify-between mb-15 ">
+          <div className="text-14-regular mt-20 flex justify-between mb-16 ">
             <p className="justify-items-end text-dark-600 xl:text-left">
               ⓒ 2024 CarePulse
             </p>
